@@ -25,6 +25,7 @@ Most of my practice projects are collected in **[Malkify](https://github.com/its
 - **Task Manager** — a task-management app built with Flutter and Firebase
 - **ConnectNow** — a real-time chat application using Firebase
 - **ShopVerse** — a responsive product-catalogue web project
+- **DevTrack** — a full-stack project management workspace using React, Node.js, Express, PostgreSQL and Prisma
 - **DevPortfolio** — a personal portfolio website
 
 These projects are learning and portfolio projects. Some require API credentials or Firebase configuration before they can run. Please check each project's README for setup instructions.
