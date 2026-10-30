@@ -13,22 +13,22 @@ I'm a computer science graduate from Multan, Pakistan, interested in building us
 
 **Languages:** Java, Dart, JavaScript, Python, HTML, CSS  
 **Frameworks & Platforms:** Flutter, React, Flask, Firebase  
-**Databases & Services:** Cloud Firestore, SQLite, REST APIs  
+**Databases & Services:** PostgreSQL, Cloud Firestore, SQLite, REST APIs  
 **Tools:** Git, GitHub, Android Studio, VS Code
 
 ### 🚀 Featured Work
 
-Most of my practice projects are collected in **[Malkify](https://github.com/itsdeebh-meer/malkify)**, including:
+My practice projects are collected in **[Malkify](https://github.com/itsdeebh-meer/malkify)**, including:
 
-- **DeniAI Studio** — an AI prompt-assistant project
-- **Movie Platform** — a movie discovery app using Flutter, Dart, and TMDB
-- **Task Manager** — a task-management app built with Flutter and Firebase
-- **ConnectNow** — a real-time chat application using Firebase
-- **ShopVerse** — a responsive product-catalogue web project
-- **DevTrack** — a full-stack project management workspace using React, Node.js, Express, PostgreSQL and Prisma
-- **DevPortfolio** — a personal portfolio website
+- **DevTrack** — project management workspace using React, Node.js, PostgreSQL and Prisma
+- **StockPilot** — inventory and stock operations
+- **HelpDesk Pro** — support ticketing and realtime events
+- **SkillSphere** — authentication and course management
+- **UptimeX** — API and website health monitoring
+- **DeniAI Studio** — AI prompt-assistant project
+- **Movie Platform** — Flutter and TMDB movie discovery app
 
-These projects are learning and portfolio projects. Some require API credentials or Firebase configuration before they can run. Please check each project's README for setup instructions.
+These are learning and portfolio projects. Some require API credentials, database setup or additional production hardening. Check each project's README for setup instructions and current limitations.
 
 ### 📫 Connect
 
